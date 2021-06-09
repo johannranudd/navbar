@@ -78,6 +78,12 @@ nav {
 .show-menu2 {
     height: 180px;
 }
+.icons {
+    white-space: nowrap;
+}
+.icons a{
+    padding: 0 5px;
+}
 
 @media (max-width: 768px) {
     .hamburger {
