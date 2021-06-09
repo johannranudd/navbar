@@ -75,9 +75,7 @@ nav {
     transform: rotate(90deg);
 }
 
-.show-menu2 {
-    height: 180px;
-}
+
 .icons {
     white-space: nowrap;
 }
@@ -99,5 +97,8 @@ nav {
     .menu2 {
         display: block;
         z-index: -1;
+    }
+    .show-menu2 {
+        height: 180px;
     }
 }
